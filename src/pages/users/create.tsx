@@ -12,7 +12,7 @@ import Link from "next/link";
 import { RiAddLine, RiPencilLine } from "react-icons/ri";
 import { Input } from "../../components/Form/Input";
 import { Header } from "../../components/Header";
-import { Sidebar } from "../../components/SideBar";
+import { Sidebar } from "../../components/Sidebar";
 
 export default function UserCreate() {
   return (
