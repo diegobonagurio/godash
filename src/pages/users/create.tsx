@@ -9,7 +9,6 @@ import {
   Button,
 } from "@chakra-ui/react";
 import Link from "next/link";
-import { RiAddLine, RiPencilLine } from "react-icons/ri";
 import { Input } from "../../components/Form/Input";
 import { Header } from "../../components/Header";
 import { Sidebar } from "../../components/Sidebar";
